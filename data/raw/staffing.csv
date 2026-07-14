@@ -1,0 +1,6 @@
+date,store_id,staff_hours,headcount,manager_on_duty
+2025-06-01,S001,80,10,Alice
+2025-06-01,S002,72,9,Bob
+2025-06-01,S003,48,6,Carol
+2025-06-02,S001,82,10,Alice
+2025-06-02,S002,70,9,Bob

@@ -1,0 +1,7 @@
+complaint_id,date,store_id,complaint_type,severity,resolved_flag
+C001,2025-06-01,S001,Service,High,TRUE
+C002,2025-06-01,S002,Product,Medium,FALSE
+C003,2025-06-02,S003,Payment,Low,TRUE
+C004,2025-06-02,S001,Service,Low,TRUE
+C005,2025-06-02,S002,Product,High,FALSE
+C006,2025-06-03,S003,Service,Medium,TRUE

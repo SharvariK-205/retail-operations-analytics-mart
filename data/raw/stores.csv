@@ -1,0 +1,4 @@
+store_id,store_name,region,city,store_type,store_size_sq_m,open_date
+S001,Central Dublin,Dublin City,Dublin,High Street,450,2020-03-01
+S002,Suburban Retail Park,Dublin West,Dublin,Retail Park,600,2021-07-15
+S003,Small Town Store,Leinster East,Wicklow,Neighbourhood,250,2019-11-10

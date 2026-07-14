@@ -1,4 +1,5 @@
 retail-operations-analytics-mart
+
 Retail operations analytics project focused on building a data mart for reporting, KPI tracking, and business insights across retail operations.
 
 Overview
